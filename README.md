@@ -20,6 +20,12 @@
 - Запись времени кругов (Lap Times)
 - Кнопки управления: Старт, Пауза, Круг, Сброс
 - Список всех записанных кругов с временем
+ 
+## 📷 Демонстрация работы
+https://rutube.ru/shorts/7a5b0395edfc35382f4260e86c4aead2/
+
+## APK
+https://github.com/Arsz1/StopWatchTimer/releases/tag/1.0
 
 ## 🏗️ Архитектура
 
