@@ -30,3 +30,6 @@ https://github.com/Arsz1/StopWatchTimer/releases/tag/1.0
 ## 🏗️ Архитектура
 
 ### MVVM + Clean Architecture
+
+## Использованные инструменты для ускорения разработки
+Claude Haiku 4.5
